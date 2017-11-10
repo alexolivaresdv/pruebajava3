@@ -5,9 +5,12 @@
  */
 package pruebabd;
 
-/**
- *
+/**************************************************************************
+ * Alex Olivares Del Valle 
  * @author LAB17
+ * Fecha: Noviembre 10 del 2017
+ * Programa: Prueba Java 3
+ * Responsabilidad: Conexion entre la BD Mysql y Netbeans.
  */
 public class PruebaBD {
 

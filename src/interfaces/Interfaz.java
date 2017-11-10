@@ -10,9 +10,12 @@ import java.awt.*;
 import bd.ConexionBD;
 import java.sql.Connection;
 import java.awt.event.*;
-/**
- *
+/**************************************************************************
+ * Alex Olivares Del Valle 
  * @author LAB17
+ * Fecha: Noviembre 10 del 2017
+ * Programa: Prueba Java 3
+ * Responsabilidad: Creacion de un objeto.
  */
 public class Interfaz extends JFrame
 {
