@@ -42,7 +42,7 @@ public class Interfaz extends JFrame
             panel.add(boton);
             panel.add(boton2);
             
-                label.setText("Atributo");
+                label.setText("Base de Datos");
                 boton.setText("Conectar");
                 boton2.setText("Desconectar");
                 panel.setBackground(Color.green);                        

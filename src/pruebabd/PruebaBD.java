@@ -20,7 +20,12 @@ public class PruebaBD {
      */
     public static void main(String[] args) 
     {
-      
+          
+       Interfaz ventana = new Interfaz();
+       ventana.setVisible(true);
+       ventana.setBounds(0, 0, 400, 400);
+       ventana.setTitle("Tercera Evaluacion");
+       ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     
 }
