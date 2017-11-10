@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package pruebabd;
-
+import interfaces.Interfaz;
+import javax.swing.JFrame;
 /**************************************************************************
  * Alex Olivares Del Valle 
  * @author LAB17
@@ -17,8 +18,9 @@ public class PruebaBD {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    {
+      
     }
     
 }
